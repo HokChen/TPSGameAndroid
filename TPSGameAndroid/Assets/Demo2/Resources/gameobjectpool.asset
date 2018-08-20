@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 749b6d3f3b3b27b44858aa2bac5ff080, type: 3}
+  m_Name: gameobjectpool
+  m_EditorClassIdentifier: 
+  gunPools:
+  - gunName: AK47
+    gunPrefab: {fileID: 1359625739330418, guid: 2171128957a1dd64fb292713404355b1,
+      type: 2}
+    fireRate: 0.1
+    damage: 1
+    shootRange: 85
+    clipCapacity: 35
+  - gunName: SSG
+    gunPrefab: {fileID: 1209973053084828, guid: 439c7e1d5c1c17349b8a060a12c06ab8,
+      type: 2}
+    fireRate: 1.5
+    damage: 100
+    shootRange: 100
+    clipCapacity: 10
+  - gunName: Fal
+    gunPrefab: {fileID: 1833914201557190, guid: 4d35467d007927048a5076611b1a3c6c,
+      type: 2}
+    fireRate: 0.1
+    damage: 100
+    shootRange: 100
+    clipCapacity: 30
+  - gunName: PKM
+    gunPrefab: {fileID: 1227024320864258, guid: 101532add00c78e4cba72ce45d112cfb,
+      type: 2}
+    fireRate: 0.1
+    damage: 100
+    shootRange: 100
+    clipCapacity: 50
+  - gunName: AKSU
+    gunPrefab: {fileID: 1323198118271316, guid: 3092f1efad6b8cc4d98fde42a9e24b97,
+      type: 2}
+    fireRate: 0.1
+    damage: 100
+    shootRange: 100
+    clipCapacity: 25
+  enemyPools: []

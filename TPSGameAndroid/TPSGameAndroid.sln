@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPSGameAndroid", "Assembly-CSharp.csproj", "{C7D9A9B8-2269-2DFF-9704-0C81C80A2FDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPSGameAndroid", "Assembly-CSharp-Editor.csproj", "{9F10C16C-A583-6DB1-CCD2-4BBB0F5D7853}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7D9A9B8-2269-2DFF-9704-0C81C80A2FDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7D9A9B8-2269-2DFF-9704-0C81C80A2FDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7D9A9B8-2269-2DFF-9704-0C81C80A2FDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7D9A9B8-2269-2DFF-9704-0C81C80A2FDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F10C16C-A583-6DB1-CCD2-4BBB0F5D7853}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F10C16C-A583-6DB1-CCD2-4BBB0F5D7853}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F10C16C-A583-6DB1-CCD2-4BBB0F5D7853}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F10C16C-A583-6DB1-CCD2-4BBB0F5D7853}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
